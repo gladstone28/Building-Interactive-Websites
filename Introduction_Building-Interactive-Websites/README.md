@@ -18,6 +18,6 @@ After this unit, you will be able to:
 
 You will put all of this knowledge into practice with an upcoming Portfolio Project. You can complete the Portfolio Project either in parallel with or after taking the prerequisite content — it’s up to you!
 
-Whatever you’re working on, be sure to connect with the Codecademy community in the forums. Remember to check in with the community regularly, including for things like code review on your project work and what material you will need to accomplish your goals.
+Whatever you’re working on, be sure to connect with the Codecademy community in the [forums](https://discuss.codecademy.com/?_gl=1*10c4vt9*_gcl_au*OTQxNjIwMjY4LjE3MTU5NDY1NzM.*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTcxODQ2ODQyNS4xMDk0LjAuMTcxODQ2ODQyNS42MC4wLjA.). Remember to check in with the community regularly, including for things like code review on your project work and what material you will need to accomplish your goals.
 
 
