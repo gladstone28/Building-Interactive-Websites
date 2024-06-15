@@ -15,6 +15,8 @@ The HTML parser does NOT process the next element in the HTML file until it load
 Additionally, scripts are loaded sequentially, so if one script depends on another script, they should be placed in that very order inside the HTML file.
 The GIF below displays two scripts being loaded. The first script makes a Watering Can appear, the second script makes a Flower appear. This shows how scripts are loaded sequentially, and how they pause the HTML parser, which is why “Blooming” appears at the end.
 
+![](./ScriptNoAttribute.gif)
+
 
 ### Instructions
 Checkpoint 1 Enabled
