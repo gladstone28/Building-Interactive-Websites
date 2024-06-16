@@ -21,4 +21,4 @@ Let’s review.
 
 - The async attribute will allow the HTML parser to continue parsing as the script is being downloaded, but will execute immediately after it has been downloaded.
 
-- The old convention was to put scripts right before the </body> tag to prevent the script from blocking the rest of the HTML content. Now, the convention is to put the script tag in the <head> element and to use the defer and async attributes.
+- The old convention was to put scripts right before the **</body>** tag to prevent the script from blocking the rest of the HTML content. Now, the convention is to put the script tag in the **<head>** element and to use the defer and async attributes.
